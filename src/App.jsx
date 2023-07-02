@@ -4,10 +4,12 @@ import Products from "./pages/Products";
 import Pricing from "./pages/Pricing";
 import Homepage from "./pages/Homepage";
 import PageNotFound from "./pages/PageNotFound";
+import PageNav from "./components/PageNav";
 
 export default function App() {
   return (
     <BrowserRouter>
+    <PageNav/>
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="products" element={<Products />} />
