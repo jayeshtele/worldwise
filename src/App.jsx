@@ -9,7 +9,7 @@ import PageNav from "./components/PageNav";
 export default function App() {
   return (
     <BrowserRouter>
-    <PageNav/>
+      <PageNav />
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="products" element={<Products />} />
