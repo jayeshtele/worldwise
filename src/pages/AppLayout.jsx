@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
+import AppNav from "../components/AppNav";
 
 export default function AppLayout() {
   return (
-    <h1>
-      App Layout
-    </h1>
-  )
+    <div>
+      <AppNav />
+      <h1>App</h1>
+    </div>
+  );
 }

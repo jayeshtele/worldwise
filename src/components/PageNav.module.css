@@ -1,6 +1,7 @@
-nav ul {
+.nav {
     display: flex;
     justify-content: space-between;
+    background-color: brown;
 }
 
 ul {
