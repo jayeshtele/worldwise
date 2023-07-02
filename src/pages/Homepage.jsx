@@ -5,7 +5,7 @@ export default function Homepage() {
     <div>
       <h1>Worldwise</h1>
 
-      <a href="/pricing">Pricing</a>
+      <link to="/pricing">Pricing</link>
     </div>
   );
 }
