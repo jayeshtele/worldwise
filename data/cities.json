@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Nagpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-03T15:38:43.282Z",
+      "notes": "The City of Oranges",
+      "position": {
+        "lat": "21.185963531343333",
+        "lng": "79.14664789623987"
+      },
+      "id": 1
+    }
+  ]
 }
