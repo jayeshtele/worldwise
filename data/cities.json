@@ -1,16 +1,28 @@
 {
   "cities": [
     {
-      "cityName": "Nagpur",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-03T15:38:43.282Z",
-      "notes": "The City of Oranges",
+      "cityName": "Castellfort",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-03T16:32:28.476Z",
+      "notes": "",
       "position": {
-        "lat": "21.185963531343333",
-        "lng": "79.14664789623987"
+        "lat": "40.522150985623796",
+        "lng": "-0.21878934063558345"
       },
       "id": 1
+    },
+    {
+      "cityName": "Daroca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-03T16:32:38.011Z",
+      "notes": "",
+      "position": {
+        "lat": "41.10005163093046",
+        "lng": "-1.428015737137076"
+      },
+      "id": 2
     }
   ]
 }
