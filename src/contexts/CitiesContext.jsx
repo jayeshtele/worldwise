@@ -132,6 +132,7 @@ function CitiesProvider({ children }) {
       const res = await fetch(`${BASE_URL}/cities/${id}`, {
         method: "DELETE",
       });
+      console.log(res)
       dispatch({ type: "city/deleted", payload: id });
     } catch {
       dispatch({
